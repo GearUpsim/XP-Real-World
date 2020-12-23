@@ -1,12 +1,4 @@
----
-name: Pull Request
-about: Use this template to create a pull request!
-title: PR
-labels: ''
-assignees: ''
-
----
-
+# Pull Request
 <!-- ⚠⚠ Do not delete this pull request template! ⚠⚠ -->
 <!-- Use this template to create Pull Requests. If this format is not used, the PR will have to be rewritten. -->
 ## Changes made
