@@ -6,5 +6,5 @@ Coming soon!
 # Installation 
 Coming soon!
 # Contributing 
-See [Contributing.md](.github/Contributing.md)
+See [Contributing.md](docs/Contributing.md)
 
